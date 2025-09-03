@@ -1,3 +1,4 @@
+import 'package:e_learning/core/themes/themes_data.dart';
 import 'package:e_learning/features/auth/presentation/views/login_view.dart';
 import 'package:flutter/material.dart';
 
@@ -10,9 +11,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return  MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginView(),
+      themeMode: ThemeMode.light,
+      theme: AppTheme.lightTheme,
+      home: const LoginView(),
     );
   }
 }
