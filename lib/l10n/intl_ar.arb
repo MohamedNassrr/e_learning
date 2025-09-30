@@ -1,0 +1,25 @@
+{   
+  "joinNowMessage": "انضم الآن وابدأ رحلة التعلم!",
+  "password": "كلمة المرور",
+  "continueText": "متابعة", 
+  "or": "أو",
+  "dontHaveAccount": "ليس لديك حساب؟",
+  "now": "الآن",
+  "register": "إنشاء حساب",
+  "forgetPass": "نسيت كلمة المرور؟",
+  "emailValidation": "لا يمكن أن يكون البريد الإلكتروني فارغاً",
+  "passwordValidation": "لا يمكن أن تكون كلمة المرور فارغة",
+  "authValidationMessage": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+  "username": "اسم المستخدم",
+  "usernameValidation": "من فضلك أدخل اسم المستخدم",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "passwordNotMatch": "كلمتا المرور غير متطابقتين",
+  "login": "تسجيل الدخول",
+  "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+  "phoneNumberValidation": "من فضلك أدخل رقم الهاتف",
+  "enterEmailAddress": "أدخل البريد الإلكتروني",
+  "sendLink": "إرسال الرابط",
+  "passwordResetEmail": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني"
+
+
+}

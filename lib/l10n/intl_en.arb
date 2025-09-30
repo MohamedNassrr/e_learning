@@ -1,0 +1,23 @@
+{   
+  "joinNowMessage": "Join now and start your learning journey!",
+  "password": "Password",
+  "continueText": "Continue", 
+  "or": "Or",
+  "dontHaveAccount": "Don't have an account?",
+  "now": "Now",
+  "register": "Register",
+  "forgetPass":"Forget Password?",
+  "emailValidation": "email can't be empty",
+  "passwordValidation":"password can't be empty",
+  "authValidationMessage": "email or password isn't correct",
+  "username": "Username",
+  "usernameValidation": "Please enter your username",
+   "confirmPassword": "Confirm Password",
+  "passwordNotMatch": "Passwords do not match",
+  "login": "Login",
+  "alreadyHaveAccount": "Already have an account?",
+  "phoneNumberValidation": "Please enter your phone number",
+  "enterEmailAddress": "Enter Email Address",
+  "sendLink": "Send Link",
+  "passwordResetEmail": "A password reset link has been sent to your email"
+}
